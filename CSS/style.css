@@ -108,7 +108,7 @@ section{
     border: 1px solid white;
     border-radius: 50%;
     margin-top: 10px;
-    margin-bottom: 70px;
+   
     
     
 }
@@ -213,5 +213,7 @@ section{
         height: 70px;
         left: 13px;
     }
-   
+   .foot i{
+    margin-bottom: 50px;
+   }
 }
