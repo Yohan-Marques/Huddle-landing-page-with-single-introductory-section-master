@@ -101,13 +101,15 @@ section{
     position: relative;
     left: 1200px;
     top: 115px;
+    
 }
 .foot i{
     color: white;
     border: 1px solid white;
     border-radius: 50%;
     margin-top: 10px;
-    margin-bottom: 25px;
+    margin-bottom: 70px;
+    
     
 }
 .foot i:hover{
@@ -211,4 +213,5 @@ section{
         height: 70px;
         left: 13px;
     }
+   
 }
